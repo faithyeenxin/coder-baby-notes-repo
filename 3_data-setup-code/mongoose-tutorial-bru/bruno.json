@@ -1,0 +1,9 @@
+{
+  "version": "1",
+  "name": "mongoose-tutorial-bru",
+  "type": "collection",
+  "ignore": [
+    "node_modules",
+    ".git"
+  ]
+}
